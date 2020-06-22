@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Saarthi</string>
+    <string name="saarthi">Saarthi</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="productname">productname</string>
+    <string name="productprice">productprice</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "960066186637",
+    "firebase_url": "https://saarthi-2b8cf.firebaseio.com",
+    "project_id": "saarthi-2b8cf",
+    "storage_bucket": "saarthi-2b8cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960066186637:android:948cf4181079521caee1c4",
+        "android_client_info": {
+          "package_name": "com.example.saarthi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960066186637-6v1egbmksln01bpccgdqrjp9jho221ms.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saarthi",
+            "certificate_hash": "fb5d0b43edc13242bfd2585f9a0ef885fe4f761a"
+          }
+        },
+        {
+          "client_id": "960066186637-ip8raqlab11rmn1kjfs64cgftcn3dbdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqF70Y85rKgx6ksWNqrfd_YEyRCrTSVjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960066186637-ip8raqlab11rmn1kjfs64cgftcn3dbdu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
